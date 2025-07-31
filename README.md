@@ -42,9 +42,7 @@ Whether you are showcasing your services, building brand authority, or preparing
 
 For business inquiries, feedback, or collaborations, feel free to reach out:
 
-- ✉️ Email: [contact@sujandas.info](mailto:contact@sujandas.info)  
-- 🌐 Website: [www.sujandas.info](https://www.sujandas.info)  
-
+[✉️ Contact Me](mailto:contact@sujandas.info) | [🌐 Visit Website](https://www.sujandas.info)
 ---
 
 ## 📄 License
