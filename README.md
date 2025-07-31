@@ -10,7 +10,7 @@
 
 ---
 
-## ✨ About AFORVICE
+##  About AFORVICE
 
 **AFORVICE** is a dynamic, high-performance business website crafted to represent a modern digital services brand. Designed for startups and growing agencies alike, it delivers a sleek, animated, and user-friendly experience that works flawlessly on all devices.
 
@@ -18,18 +18,18 @@ Whether you are showcasing your services, building brand authority, or preparing
 
 ---
 
-## 🔥 Core Features
+##  Core Features
 
-- ✅ **Modern UI/UX** — Clean layouts with smooth animations and elegant design  
-- 📱 **Mobile-First Design** — Fully responsive across all screen sizes  
-- 🎬 **Animated Interactions** — Seamless scroll and motion effects using Framer Motion or GSAP  
-- ⏳ **Countdown Timer** — Eye-catching launch timer integrated in the Hero section  
-- 🌙 **Light/Dark Mode** *(optional)* — Adaptive interface based on user preference  
-- 📚 **FAQ Section** — Predefined questions and answers for quick visitor support  
+- **Modern UI/UX** — Clean layouts with smooth animations and elegant design  
+- **Mobile-First Design** — Fully responsive across all screen sizes  
+- **Animated Interactions** — Seamless scroll and motion effects using Framer Motion or GSAP  
+- **Countdown Timer** — Eye-catching launch timer integrated in the Hero section  
+- **Light/Dark Mode** *(optional)* — Adaptive interface based on user preference  
+- **FAQ Section** — Predefined questions and answers for quick visitor support  
 
 ---
 
-## 🛠 Built With
+##  Built With
 
 - **Frontend:** React.js + Tailwind CSS  
 - **Animations:** Framer Motion / GSAP  
@@ -38,7 +38,7 @@ Whether you are showcasing your services, building brand authority, or preparing
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For business inquiries, feedback, or collaborations, feel free to reach out:
 
@@ -49,13 +49,13 @@ For business inquiries, feedback, or collaborations, feel free to reach out:
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
 
-<h3 align="center">
-  🚀 Made with vision, code, and a whole lot of coffee by  
-  <a href="https://sujandas.info" target="_blank" rel="noopener noreferrer"><strong>Sujan Das</strong></a>
+<h3 align="center" style="font-style: italic; font-weight: normal; margin-top: 2rem;">
+  🚀 Made with passion, code, and a little too much coffee ☕ by  
+  <a href="https://www.sujandas.info" target="_blank" rel="noopener noreferrer"><strong>Sujan Das</strong></a>
 </h3>
 
 <hr style="border: none; height: 1px; background: linear-gradient(to right, #ff416c, #0077b5);" />
